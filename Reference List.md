@@ -13,10 +13,10 @@
 - Huchler, K., Schulze, C. H., Gamauf, A., & Sumasgutner, P. (2020). Shifting breeding phenology in Eurasian kestrels Falco tinnunculus: Effects of weather and urbanization. ***Frontiers in Ecology and Evolution***, 8, 247. https://www.frontiersin.org/articles/10.3389/fevo.2020.00247/full
 
 ## 2021-07-24 (Yangkang Chen)
-- de Boer, R. A., Vega-Trejo, R., Kotrschal, A., & Fitzpatrick, J. L. (2021). Meta-analytic evidence that animals rarely avoid inbreeding. Nature Ecology & Evolution, 1-16. https://www.nature.com/articles/s41559-021-01453-9
+- de Boer, R. A., Vega-Trejo, R., Kotrschal, A., & Fitzpatrick, J. L. (2021). Meta-analytic evidence that animals rarely avoid inbreeding. ***Nature Ecology & Evolution***, 1-16. https://www.nature.com/articles/s41559-021-01453-9
 
 ## 2021-07-10 （Danni Tang）
-- Allouche, J., Rachmin, I., Adhikari, K., Pardo, L. M., Lee, J. H., McConnell, A. M., ... & Roider, E. (2021). NNT mediates redox-dependent pigmentation via a UVB-and MITF-independent mechanism. Cell, 184(16), 4268-4283. https://www.sciencedirect.com/science/article/pii/S0092867421007571
+- Allouche, J., Rachmin, I., Adhikari, K., Pardo, L. M., Lee, J. H., McConnell, A. M., ... & Roider, E. (2021). NNT mediates redox-dependent pigmentation via a UVB-and MITF-independent mechanism. ***Cell***, 184(16), 4268-4283. https://www.sciencedirect.com/science/article/pii/S0092867421007571
 
 ## 2021-07-01 (Qian Xiao)
-- Bastos, A. P., & Taylor, A. H. (2020). Kea show three signatures of domain-general statistical inference. Nature communications, 11(1), 1-8. https://www.nature.com/articles/s41467-020-14695-1.pdf
+- Bastos, A. P., & Taylor, A. H. (2020). Kea show three signatures of domain-general statistical inference. ***Nature communications***, 11(1), 1-8. https://www.nature.com/articles/s41467-020-14695-1.pdf
