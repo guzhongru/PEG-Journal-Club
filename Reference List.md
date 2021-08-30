@@ -1,3 +1,7 @@
+## 2021-08-27 (Han Su, Jinbiao Sun)
+- Bannasch, D. L., Kaelin, C. B., Letko, A., Loechel, R., Hug, P., Jagannathan, V., ... & Leeb, T. (2021). Dog colour patterns explained by modular promoters of ancient canid origin. ***Nature ecology & evolution***, 1-9. https://www.nature.com/articles/s41559-021-01524-x
+- McClure, C. J., & Rolek, B. W. (2020). Relative conservation status of bird orders with special attention to raptors. ***Frontiers in Ecology and Evolution***, 8, 420. https://www.frontiersin.org/articles/10.3389/fevo.2020.593941/full
+
 ## 2021-08-20 (Chao Xing, Jinbiao Sun)
 - Fan, P. F., Yang, L., Liu, Y., & Lee, T. M. (2020). Build up conservation research capacity in China for biodiversity governance. ***Nature Ecology & Evolution***, 4(9), 1162-1167. https://www.nature.com/articles/s41559-020-1253-z
 - Caro, S. M., Griffin, A. S., Hinde, C. A., & West, S. A. (2016). Unpredictable environments lead to the evolution of parental neglect in birds. ***Nature communications***, 7(1), 1-10. https://www.nature.com/articles/ncomms10985?origin=ppub
